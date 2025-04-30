@@ -14,7 +14,7 @@ This project is a backend API server built with **Node.js**, **Express**, and **
 
 ---
 
-## 🚀 Getting Started
+## Getting Started
 
 ```bash
 # 1. Clone the repo
