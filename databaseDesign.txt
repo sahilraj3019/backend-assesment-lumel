@@ -1,0 +1,9 @@
+Schema Overview:
+
+Customer (id, name, email, address)
+
+Product (id, name, category)
+
+Order (id, customerId, region, dateOfSale, quantitySold, unitPrice, discount, shippingCost, paymentMethod)
+
+OrderItem (orderId, productId, quantity, unitPrice, discount, shippingCost)
